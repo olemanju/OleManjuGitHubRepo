@@ -1,0 +1,16 @@
+
+<suite name="naukriSanityTest" >
+  <test name="Ole">
+    <classes>
+      <!--<class name="com.nk.tests.LoginPocTest">-->
+      <class name="com.nk.pomtests.HomePageTests">
+      <!-- <methods>
+     
+      <include name="getlocationstext"></include>
+     
+           </methods> -->
+      
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

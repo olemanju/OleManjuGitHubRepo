@@ -1,0 +1,16 @@
+
+<suite name="OleSanityTest" >
+  <test name="Ole">
+    <classes>
+      <!--<class name="com.nk.tests.LoginPocTest">-->
+      <class name="com.nk.pages.HomePageTest">
+      <!-- <methods>
+     
+      <include name="getHeaderLinksName"></include>
+     
+           </methods> -->
+      
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

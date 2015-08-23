@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object test example" duration-ms="99386" started-at="2015-08-22T18:10:30Z" finished-at="2015-08-22T18:12:09Z">
+    <groups>
+    </groups>
+    <test name="sample test" duration-ms="99386" started-at="2015-08-22T18:10:30Z" finished-at="2015-08-22T18:12:09Z">
+      <class name="com.nk.tests.HomePageTest">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="setup" is-config="true" duration-ms="13063" started-at="2015-08-22T23:40:30Z" finished-at="2015-08-22T23:40:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://www.naukri.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnSiteLogoAndCheckThePageTitle()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="clickOnSiteLogoAndCheckThePageTitle" duration-ms="2420" started-at="2015-08-22T23:40:43Z" finished-at="2015-08-22T23:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSiteLogoAndCheckThePageTitle -->
+        <test-method status="PASS" signature="clickOnNaukriFastForwardLink()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="clickOnNaukriFastForwardLink" duration-ms="15141" started-at="2015-08-22T23:40:45Z" finished-at="2015-08-22T23:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNaukriFastForwardLink -->
+        <test-method status="PASS" signature="clickOnEmployerZone()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="clickOnEmployerZone" duration-ms="12789" started-at="2015-08-22T23:41:00Z" finished-at="2015-08-22T23:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnEmployerZone -->
+        <test-method status="PASS" signature="clickOnBuyonlineLinks()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="clickOnBuyonlineLinks" duration-ms="27836" started-at="2015-08-22T23:41:13Z" finished-at="2015-08-22T23:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBuyonlineLinks -->
+        <test-method status="PASS" signature="clickOnPostYourCV()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="clickOnPostYourCV" duration-ms="24908" started-at="2015-08-22T23:41:41Z" finished-at="2015-08-22T23:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnPostYourCV -->
+        <test-method status="PASS" signature="clickOnCreateJobAlert()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="clickOnCreateJobAlert" duration-ms="2693" started-at="2015-08-22T23:42:06Z" finished-at="2015-08-22T23:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCreateJobAlert -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nk.tests.HomePageTest@3087f9]" name="tearDown" is-config="true" duration-ms="529" started-at="2015-08-22T23:42:08Z" finished-at="2015-08-22T23:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nk.tests.HomePageTest -->
+    </test> <!-- sample test -->
+  </suite> <!-- Page Object test example -->
+</testng-results>
